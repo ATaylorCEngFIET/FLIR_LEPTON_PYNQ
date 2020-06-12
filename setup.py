@@ -37,7 +37,7 @@ def copy_notebooks():
         shutil.rmtree(dst_nb_dir)
     copy_tree(src_nb_dir, dst_nb_dir)
 
-
+print("installing")
 check_env()
 copy_overlays()
 copy_notebooks()
