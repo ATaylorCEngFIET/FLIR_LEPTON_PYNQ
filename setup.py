@@ -44,7 +44,7 @@ copy_notebooks()
 
 setup(
 	name= "lepton",
-	version= "1.1",
+	version= "1.2",
 	url= 'https://github.com/ATaylorCEngFIET/FLIR_LEPTON_PYNQ',
 	license = 'Apache Software License',
 	author= "Adam Taylor",
