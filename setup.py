@@ -49,7 +49,6 @@ setup(
 	license = 'Apache Software License',
 	author= "Adam Taylor",
 	author_email= "adam@adiuvoengineering.com",
-    download_url='https://github.com/ATaylorCEngFIET/FLIR_LEPTON_PYNQ',
 	packages= find_packages(),
 	package_data= {
 	 '': hw_data_files,
