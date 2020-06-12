@@ -9,7 +9,7 @@ board = os.environ['BOARD']
 repo_board_folder = f'boards/{board}/lepton'
 board_notebooks_dir = os.environ['PYNQ_JUPYTER_NOTEBOOKS']
 hw_data_files = []
-ovl_dest = 'session_2'
+ovl_dest = 'lepton'
 
 
 # check whether board is supported
